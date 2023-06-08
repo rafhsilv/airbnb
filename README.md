@@ -13,7 +13,7 @@ The code should run with no issues using Python versions 3.*.
 
 To install the all required libraries you can run the following command in the root folder of the project, replacing  **env-name**  with the proper environment name.
     
-`conda create --name <env-name> --file requirements.txt` 
+`conda create --name env-name --file requirements.txt` 
 
 
 ## Project Motivation<a name="motivation"></a>
