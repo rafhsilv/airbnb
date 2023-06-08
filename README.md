@@ -29,9 +29,9 @@ For this project, i aimed to explore what distinguishes hosts and superhosts bey
 
 ## File Descriptions <a name="files"></a>
 
-There's one notebooks available to showcase work related to the above questions.
-The required libraries can be found on requirements.txt
-In the data folder you can find the dataset used for this analysis.
+* There's one notebooks available to showcase work related to the above questions.
+* The required libraries can be found on requirements.txt
+* In the data folder you can find the dataset used for this analysis.
 
 ## Results<a name="results"></a>
 
