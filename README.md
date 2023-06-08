@@ -18,7 +18,7 @@ To install the all required libraries you can run the following command in the r
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, i aimed to explore what distinguishes hosts and superhosts, beyond the main requirements, in the city of Rio de Janeiro. I asked numerous questions to identify any intriguing differences between the two groups, and these are the top 5 most interesting questions I discovered:
+For this project, i aimed to explore what distinguishes hosts and superhosts beyond the main requirements, in the city of Rio de Janeiro. I asked numerous questions to identify any intriguing differences between the two groups, and these are the top 5 most interesting questions I discovered:
 
 1. What's the proportion of super hosts?
 2. What's the average ratings for superhost and non superhost?
