@@ -5,6 +5,7 @@
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
+5. [Acknowledgments](#acknowledgments)
 
 ## Installation <a name="installation"></a>
 
@@ -38,3 +39,8 @@ For this project, i aimed to explore what distinguishes hosts and superhosts bey
 The main findings of the code can be found at the post available [here](https://medium.com/@rafhslv/the-rio-de-janeiro-airbnb-experience-what-distinguishes-a-superhost-from-the-rest-772bf4bd5c56).
 
 
+## Acknowledgments<a name="results"></a>
+
+Dataset credit http://insideairbnb.com/get-the-data/
+
+This data is licensed under a Creative Commons Attribution 4.0 International License.
