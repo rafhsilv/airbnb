@@ -11,14 +11,14 @@
 For this project, the latest Anaconda distribution of Python is need.
 The code should run with no issues using Python versions 3.*.
 
-To install the all required libraries you can run the following command in the root folder of the project, replacing  "<env-name>"  with the proper environment name.
+To install the all required libraries you can run the following command in the root folder of the project, replacing  **env-name**  with the proper environment name.
     
-`conda create --name <env-name> --file requirements.txt` 
+`conda create --name env-name --file requirements.txt` 
 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, i aimed to explore what distinguishes hosts and superhosts, beyond the main requirements, in the city of Rio de Janeiro. I asked numerous questions to identify any intriguing differences between the two groups, and these are the top 5 most interesting questions I discovered:
+For this project, i aimed to explore what distinguishes hosts and superhosts beyond the main requirements, in the city of Rio de Janeiro. I asked numerous questions to identify any intriguing differences between the two groups, and these are the top 5 most interesting questions I discovered:
 
 1. What's the proportion of super hosts?
 2. What's the average ratings for superhost and non superhost?
@@ -29,9 +29,9 @@ For this project, i aimed to explore what distinguishes hosts and superhosts, be
 
 ## File Descriptions <a name="files"></a>
 
-There's one notebooks available to showcase work related to the above questions.
-The required libraries can be found on requirements.txt
-In the data folder you can find the dataset used for this analysis.
+* There's one notebooks available to showcase work related to the above questions.
+* The required libraries can be found on requirements.txt
+* In the data folder you can find the dataset used for this analysis.
 
 ## Results<a name="results"></a>
 
